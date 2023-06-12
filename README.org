@@ -5,5 +5,5 @@ PEPPOL invoicing code lists for Common Lisp
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/mmontone/cl-peppol.git |
 | commit  | d1c9571                                       |
-| systems | cl-peppol                                     |
+| systems | peppol                                        |
 |---------+-----------------------------------------------|
