@@ -7,4 +7,4 @@ PEPPOL invoicing code lists for Common Lisp
 | commit  | d1c9571                                       |
 | systems | peppol                                        |
 |---------+-----------------------------------------------|
- 
+  
